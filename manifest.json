@@ -1,7 +1,7 @@
 {
     "name": "Download Organiser",
-    "version": "0.1",
-    "description": "Organizes your download folder today's date. Format: DD-MM-YYYY",
+    "version": "0.2",
+    "description": "Organizes .pcap files by today's date. Format: DD-MM-YYYY",
     "background": {
         "service_worker": "bg.js"},
     "permissions": ["downloads"],
